@@ -57,6 +57,17 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 <div align="center"> 
   <img src="2024-04-15 16_35_44-Admin Login.png" alt="screenshot" />
+  <img src="2024-04-15 16_37_01-Settings.png" alt="screenshot" />
+  <img src="2024-04-15 16_37_39-Settings.png" alt="screenshot" />
+  <img src="2024-04-15 16_37_52-Settings.png" alt="screenshot" />
+  <img src="2024-04-14 22_24_28-Pomada Tabernil.png" alt="screenshot" />
+    <img src="2024-04-15 16_29_07-.png" alt="screenshot" />
+    <img src="2024-04-15 16_29_58-Settings.png" alt="screenshot" />
+    <img src="2024-04-15 16_30_22-Supplements Category.png" alt="screenshot" />
+    <img src="2024-04-15 16_30_44-Dz-Ornithologie Shop.png" alt="screenshot" />
+   <img src="2024-04-15 16_33_35-MyCart Page.png" alt="screenshot" />
+   <img src="2024-04-15 16_34_36-Checkout Page.png" alt="screenshot" />
+
 </div>
 
 
