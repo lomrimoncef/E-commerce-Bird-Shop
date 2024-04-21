@@ -56,7 +56,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="2024-04-15 16_35_44-Admin Login.png" alt="screenshot" />
 </div>
 
 
