@@ -42,7 +42,12 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 <!-- About the Project -->
 ## :star2: About the Project
+DISCOVER YOUR MUTUAL AID PLATFORM
+DZ-AIDE
 
+Do you need help? (blood donations, hard-to-find medications, moving, private lessons, fundraising for an association or volunteering, cleaning up a green space, or even help with DIY work) DzAide is here to connect you with people (individuals, associations, professionals...) who are ready to help you.
+
+Want to help but don't know where to start? On DzAide, you can also offer your services to others (individuals, associations, professionals...) to assist them—whether it's assembling furniture, giving math or reading lessons to hospitalized children, making donations to an association, or participating in volunteer efforts.
 
 <!-- Screenshots -->
 ### :camera: Screenshots
