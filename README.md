@@ -70,14 +70,14 @@ Maybe you can mention me or this repo in the acknowledgements too
 ## :dart: Features
 
 - [Features/Guest](#toolbox-getting-started)
-  * View Product](#bangbang-prerequisites)
-  * Register](#gear-installation)
-  * Add product to cart](#test_tube-running-tests)
+  * View Product
+  * Register
+  * Add product to cart
 
 - [Features/Customer](#eyes-usage)
-  * Login](#bangbang-prerequisites)
-  * Add product to cart](#gear-installation)
-  * Checkout (No payment gateway implemented, all checkout status=PAID)](#test_tube-running-tests)
+  * Login
+  * Add product to cart
+  * Checkout 
   * View purchase history
  - [Features/Admin](#eyes-usage)
    * Login to admin panel
