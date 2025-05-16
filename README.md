@@ -26,12 +26,12 @@ Maybe you can mention me or this repo in the acknowledgements too
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](##star2-about-the-project)
-  * Screenshots](#camera-screenshots)
+  * Screenshots
 
 - [Features](##star2-about-the-project)
-  * View Product](#bangbang-prerequisites)
-  * Register](#gear-installation)
-  * Add product to cart](#test_tube-running-tests)
+  * View Product
+  * Register
+  * Add product to cart
 
 
 - [Installation](##star2-about-the-project)
